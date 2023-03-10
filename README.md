@@ -11,11 +11,11 @@ Yep. Two domains that seems to have nothing in common and if you look a little b
 - Platform hardware
 - ...
 
-Behind the Game Design aspect, we often forget that a video game is a program such as your Discord client or your web browser. And as they are programs, they obey same execution rules regarding of the kernel and how the memory must be managed.
+Behind the Game Design aspect, we often forget that a video game is a program such as your Discord client or your web browser. And as they are programs, they obey **same execution rules** regarding of the kernel and how the memory must be managed.
 
-However, as they stress a lot the central processing unit and the graphical one, it is pretty important to take care of how they are built.
+However, as they stress a lot the central processing unit and the graphical one, it is pretty important to **take care** of how they are built.
 
-### Stay tuned
+### Stay tuned 📣
 
-The website: https://www.indiekernel.eu/
-Twitter account: [@IndieKernel](https://twitter.indiekernel.eu/)
+- The website: https://www.indiekernel.eu/
+- Twitter account: [@IndieKernel](https://twitter.indiekernel.eu/)
